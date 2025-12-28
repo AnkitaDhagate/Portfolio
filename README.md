@@ -9,7 +9,7 @@
 A modern, interactive, and fully responsive portfolio website showcasing my skills, projects, and achievements as an AIML Engineering student and Java Developer.
 
 ## 🌐 Live Demo
-[View Live Portfolio](https://ankitadhagate.github.io/portfolio/)
+[View Live Portfolio](https://ankitadhagate.github.io/Portfolio/)
 
 ## ✨ Features
 
