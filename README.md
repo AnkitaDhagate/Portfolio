@@ -28,4 +28,3 @@ A modern, interactive, and fully responsive portfolio website showcasing my skil
 - **Fonts:** Google Fonts (Inter, Poppins)
 - **Hosting:** GitHub Pages
 
-## 📁 Project Structure
