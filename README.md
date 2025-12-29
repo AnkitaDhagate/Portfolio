@@ -20,7 +20,7 @@ A modern, interactive, and fully responsive portfolio website built with **HTML,
 
 
 ## 🔗 Live Preview
-[View Live Portfolio](https://ankitadhagate-portfolio.netlify.app) *(replace with your actual link)*
+[View Live Portfolio](https://ankitadhagate-portfolio.netlify.app) 
 
 ## 📧 Contact
 - **Email:** dhagateankita@gmail.com  
